@@ -1,4 +1,4 @@
-git 
+
 
 *{
   padding: 0px;
@@ -9,7 +9,7 @@ git
 
 body{
   background-color: black;
-  margin-left: 95px;
+  margin-left: 100px;
 }
 
 .Main{
@@ -87,22 +87,22 @@ body{
   
 }
 .chname{
-  color: rgb(255, 255, 255);
+  color: rgb(175, 168, 168);
   font-size: 20px;
-  font-weight: 100;
+  font-weight: 50;
 
 }
 
 .Vlikes{
   color: rgb(249, 249, 249);
   font-size: 20px;
-  font-weight: 300;
+  font-weight: 200;
 }
 
 .vViews{
-  color: rgb(254, 254, 254);
+  color: rgb(245, 239, 239);
   font-size: 20px;
-  font-weight: 200;
+  font-weight: 100;
 }
 
 
