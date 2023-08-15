@@ -1,8 +1,10 @@
 
 import './App.css';
 import Product from './Product'
+import CounterIncrease from './ConterIncrease'
+import Movie from './MovieCard'
 
-import State from './UseState'
+
 
 function App() {
 
@@ -16,7 +18,17 @@ function App() {
       
 
 
-      <Product/>
+      {/* <Product/> */}
+
+      {/* <CounterIncrease/> */}
+
+      <Movie/>
+
+
+
+
+
+
 
       
       
